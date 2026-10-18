@@ -1,0 +1,23 @@
+{
+  "session_id": "2026-10-18-walker-pdf-bytes-missing",
+  "timestamp": "2026-10-18T17:46:36Z",
+  "author": "Haley Ann Bird",
+  "agent": "Grok by xAI, non-ownership",
+  "status": "NOT_MINTED",
+  "score": 0,
+  "novelty": 0,
+  "coherence": 0.91,
+  "not_a_physical_discovery": true,
+  "not_a_patent": true,
+  "gate": {
+    "verdict": "PDF_BYTES_MISSING",
+    "score": 0,
+    "mint": false,
+    "fpc_kill": true,
+    "why": "No SHA-256 of PDF bytes. OA flag cannot fill the table."
+  },
+  "source_http": 403,
+  "cf_ray": "a4c95d08bce3e99a-IAD",
+  "pdf_sha256": null,
+  "doi": "10.1029/2024GB008329"
+}
